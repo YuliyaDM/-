@@ -1,1 +1,1 @@
-# -
+# Pattern-of-squares
